@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello world! I am frontend developer from Saint-Petersburg 👀<br>💼 I currently working at emphasoft <br>🥸 Getting higher education in suai<br>
+👋 Hello world! I am frontend developer from Saint-Petersburg 👀<br><br>🥸 Getting higher education in suai<br>
 
 
 ## 🌐 Socials:
