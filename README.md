@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello world! I am frontend developer from Saint-Petersburg 👀<br><br>🥸 Getting higher education in suai<br>
+👋 Hello world! I am frontend/mobile developer from Saint-Petersburg 👀<br><br>🥸 Getting higher education in suai<br>
 
 
 ## 🌐 Socials:
